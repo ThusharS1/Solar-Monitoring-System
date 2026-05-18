@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_card">#111811</color>
+    <color name="bg_card_dark">#0D1F0D</color>
+    <color name="bg_dark">#0A0F0A</color>
+    <color name="blue_light">#90CAF9</color>
+    <color name="border">#2a3d2a</color>
+    <color name="green_dark">#2E7D32</color>
+    <color name="green_light">#81C784</color>
+    <color name="green_primary">#4CAF50</color>
+    <color name="nav_active">#FDD835</color>
+    <color name="nav_inactive">#5a8a5a</color>
+    <color name="red_light">#EF9A9A</color>
+    <color name="text_muted">#7CB47C</color>
+    <color name="text_primary">#E8F5E9</color>
+    <color name="yellow">#FDD835</color>
+    <color name="yellow_light">#FFF176</color>
+    <string name="app_name">Surya-Shakti</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_log">Log</string>
+    <string name="nav_reports">Reports</string>
+    <string name="nav_tips">AI Tips</string>
+    <style name="Theme.SuryaShakti" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/green_primary</item>
+        <item name="colorPrimaryVariant">@color/green_dark</item>
+        <item name="colorOnPrimary">@color/text_primary</item>
+        <item name="colorSecondary">@color/yellow</item>
+        <item name="android:windowBackground">@color/bg_dark</item>
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:navigationBarColor">@color/bg_card</item>
+        <item name="android:textColor">@color/text_primary</item>
+    </style>
+</resources>

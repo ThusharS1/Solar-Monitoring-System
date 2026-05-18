@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "com.suryashakti.solarmonitor.app-debug-55:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.suryashakti.solarmonitor.app-main-57:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.suryashakti.solarmonitor.app-debug-55:/drawable_bg_badge.xml.flat",
+        "source": "com.suryashakti.solarmonitor.app-main-57:/drawable/bg_badge.xml"
+    },
+    {
+        "merged": "com.suryashakti.solarmonitor.app-debug-55:/layout_fragment_log.xml.flat",
+        "source": "com.suryashakti.solarmonitor.app-main-57:/layout/fragment_log.xml"
+    },
+    {
+        "merged": "com.suryashakti.solarmonitor.app-debug-55:/layout_activity_main.xml.flat",
+        "source": "com.suryashakti.solarmonitor.app-main-57:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.suryashakti.solarmonitor.app-debug-55:/layout_item_tip_card.xml.flat",
+        "source": "com.suryashakti.solarmonitor.app-main-57:/layout/item_tip_card.xml"
+    },
+    {
+        "merged": "com.suryashakti.solarmonitor.app-debug-55:/layout_item_log.xml.flat",
+        "source": "com.suryashakti.solarmonitor.app-main-57:/layout/item_log.xml"
+    },
+    {
+        "merged": "com.suryashakti.solarmonitor.app-debug-55:/color_nav_selector.xml.flat",
+        "source": "com.suryashakti.solarmonitor.app-main-57:/color/nav_selector.xml"
+    },
+    {
+        "merged": "com.suryashakti.solarmonitor.app-debug-55:/drawable_ic_ai.xml.flat",
+        "source": "com.suryashakti.solarmonitor.app-main-57:/drawable/ic_ai.xml"
+    },
+    {
+        "merged": "com.suryashakti.solarmonitor.app-debug-55:/drawable_bg_export_banner.xml.flat",
+        "source": "com.suryashakti.solarmonitor.app-main-57:/drawable/bg_export_banner.xml"
+    },
+    {
+        "merged": "com.suryashakti.solarmonitor.app-debug-55:/layout_fragment_dashboard.xml.flat",
+        "source": "com.suryashakti.solarmonitor.app-main-57:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.suryashakti.solarmonitor.app-debug-55:/navigation_nav_graph.xml.flat",
+        "source": "com.suryashakti.solarmonitor.app-main-57:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.suryashakti.solarmonitor.app-debug-55:/layout_fragment_tips.xml.flat",
+        "source": "com.suryashakti.solarmonitor.app-main-57:/layout/fragment_tips.xml"
+    },
+    {
+        "merged": "com.suryashakti.solarmonitor.app-debug-55:/drawable_ic_log.xml.flat",
+        "source": "com.suryashakti.solarmonitor.app-main-57:/drawable/ic_log.xml"
+    },
+    {
+        "merged": "com.suryashakti.solarmonitor.app-debug-55:/layout_fragment_reports.xml.flat",
+        "source": "com.suryashakti.solarmonitor.app-main-57:/layout/fragment_reports.xml"
+    },
+    {
+        "merged": "com.suryashakti.solarmonitor.app-debug-55:/drawable_ic_dashboard.xml.flat",
+        "source": "com.suryashakti.solarmonitor.app-main-57:/drawable/ic_dashboard.xml"
+    },
+    {
+        "merged": "com.suryashakti.solarmonitor.app-debug-55:/drawable_ic_reports.xml.flat",
+        "source": "com.suryashakti.solarmonitor.app-main-57:/drawable/ic_reports.xml"
+    },
+    {
+        "merged": "com.suryashakti.solarmonitor.app-debug-55:/drawable_bg_header_icon.xml.flat",
+        "source": "com.suryashakti.solarmonitor.app-main-57:/drawable/bg_header_icon.xml"
+    }
+]
